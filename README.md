@@ -13,7 +13,7 @@ Demo
 -------
 This is the sample app in action:
 
-![Demo](https://github.com/iamtheib/InfiniteRecyclerView/raw/master/assets/demo.gif)
+![Demo](https://github.com/bhat0066/ProductList/blob/master/device-2018-01-02-175129.mp4)
 
 <H2>Completed</H2>
 <ol>
