@@ -9,10 +9,16 @@ You're a successful Shopify merchant! Your inventory has grown so much that you 
   <li>The description of the product.</li>
 </ul>
 
+Demo
+-------
+This is the sample app in action:
+
+![Demo](https://github.com/iamtheib/InfiniteRecyclerView/raw/master/assets/demo.gif)
+
 <H2>Completed</H2>
-<ol>  
-  <li><p>&#10004; The first page of products with the image, title, and description.</p></li>
-  <li><p>&#10004; A simple video of your app scrolling through the list up and down</p></li>
-    <ol><li>If you chose to add any of the extra challenges, also include a video of those solutions.</li></ol>
-  <li><p>&#10004; Your project code.</p></li>
+<ol>
+    <li><p>&#10004; The first page of products with the image, title, and description.</p></li>
+    <li><p>&#10004; A simple video of your app scrolling through the list up and down</p></li>
+    <ol><p>If you chose to add any of the extra challenges, also include a video of those solutions.</li></ol>
+    <li><p>&#10004; Your project code.</p></li>
 </ol>
