@@ -13,7 +13,7 @@ Demo
 -------
 This is the sample app in action:
 
-![Demo](https://github.com/bhat0066/ProductList/blob/master/device-2018-01-02-175129.mp4)
+![Demo](https://github.com/bhat0066/ProductList/blob/master/demo.gif)
 
 <H2>Completed</H2>
 <ol>
