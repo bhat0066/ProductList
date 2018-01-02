@@ -8,17 +8,30 @@ import kotlinx.android.synthetic.main.activity_main.*
 import okhttp3.*
 import java.io.IOException
 
-class MainActivity : AppCompatActivity() {
+/**
+ * This class is an entry point in to the application. It sets the main layout, parses the json
+ * data and sets the adapter.
+ *
+ * @author Jinesh Bhatt
+ * @version 1.0
+ */
+
+class MainActivity: AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
         rvProductList.layoutManager = LinearLayoutManager(this)
-
         fetchJSONData()
     }
 
+    /**
+     * Method initiates a call using OkHTTPClient to request a json file which is passed to MainAdapter class
+     * using GsonBuilder.
+     *
+     * @see OkHttpClient
+     * @see GsonBuilder
+     */
     private fun fetchJSONData() {
         println("Attempting to fetch JSON data")
 

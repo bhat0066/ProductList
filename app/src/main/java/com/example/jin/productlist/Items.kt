@@ -1,9 +1,11 @@
 package com.example.jin.productlist
 
 /**
- * Created by jinesh on 2017-12-25.
+ * Class holds a sub classes which more or less resemble the parsed json object
+ *
+ * @author Jinesh Bhatt
+ * @version 1.0
  */
-
 class Items(val products: List<Product>)
 
 class Product(val id: Long, val title: String, val body_html: String, val vendor: String, val product_type: String,
