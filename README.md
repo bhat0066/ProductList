@@ -18,7 +18,6 @@ This is the sample app in action:
 <H2>Completed</H2>
 <ol>
     <li><p>&#10004; The first page of products with the image, title, and description.</p></li>
-    <li><p>&#10004; A simple video of your app scrolling through the list up and down</p></li>
-    <ol><p>If you chose to add any of the extra challenges, also include a video of those solutions.</li></ol>
-    <li><p>&#10004; Your project code.</p></li>
+    <li><p>&#10004; A simple video of your app scrolling through the list up and down. If you chose to add any of the extra challenges, also include a video of those solutions.</p></li>
+    <li><p>&#10004; Your project code.</p></li>
 </ol>
