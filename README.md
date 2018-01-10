@@ -1,6 +1,6 @@
-<H1>Shopify Mobile Developer Internship Question</H1>
+# Shopify Mobile Developer Internship Question
 
-<H2>Problem</H2>
+### Problem:
 You're a successful Shopify merchant! Your inventory has grown so much that you can't keep track of them with your fingers anymore. Create a mobile app that displays a list of all the products your store sells. You want to quickly glance at them, so the list should also have the following:
 
 <ul>
@@ -9,15 +9,16 @@ You're a successful Shopify merchant! Your inventory has grown so much that you 
   <li>The description of the product.</li>
 </ul>
 
-Demo
+### Demo:
 -------
 This is the sample app in action:
 
 ![Demo](https://github.com/bhat0066/ProductList/blob/master/demo.gif)
+   
+ ### TODO:
 
-<H2>Completed</H2>
-<ol>
-    <li><p>&#10004; The first page of products with the image, title, and description.</p></li>
-    <li><p>&#10004; A simple video of your app scrolling through the list up and down. If you chose to add any of the extra challenges, also include a video of those solutions.</p></li>
-    <li><p>&#10004; Your project code.</p></li>
-</ol>
+- [x] The first page of products with the image, title, and description.
+- [x] A simple video of your app scrolling through the list up and down.
+- [ ] Extra Challenges
+  - [x] Product Details Page
+  - [ ] Search Bar 
