@@ -1,5 +1,3 @@
-# Shopify Mobile Developer Internship Question
-
 ### Problem:
 You're a successful Shopify merchant! Your inventory has grown so much that you can't keep track of them with your fingers anymore. Create a mobile app that displays a list of all the products your store sells. You want to quickly glance at them, so the list should also have the following:
 
