@@ -8,7 +8,6 @@ You're a successful Shopify merchant! Your inventory has grown so much that you 
 </ul>
 
 ### Demo:
--------
 This is the sample app in action:
 
 ![Demo](https://github.com/bhat0066/ProductList/blob/master/demo.gif)
